@@ -1,2 +1,3 @@
-# hello
-My first repository
+# Hello
+
+This is my first repository! A small step towards developing. 
